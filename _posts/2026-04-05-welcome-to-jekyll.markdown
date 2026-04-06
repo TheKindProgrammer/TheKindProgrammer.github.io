@@ -30,3 +30,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 ![Scenary](/assets/test.jpg)
 
+![econ](/assets/post1/econ.png)
+
