@@ -8,4 +8,4 @@ I graduted Vanderbilt in 2023 with a degree in economics and computer science. D
 
 I started this blog to explore topics such as currency crises, the evolving role of the U.S. dollar in global trade, and my long-term perspectives on markets.
 
-I aim to share my learning journey. I enjoy not only the idea of making bets on trends against a consensus but also using economics as lens through which to view the world.
+I aim to share my learning journey. I enjoy not only the idea of making bets on trends against a consensus but also using economics as lens through which to view the world. Views are my own and do not represent my employer.
