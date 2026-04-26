@@ -10,6 +10,6 @@ In particular, I have been intrigued by how the public sector has absorbed priva
 
 I started this blog to explore topics such as currency crises, the evolving role of the U.S. dollar in global trade, public debt sustainability, and long-term market dynamics.
 
-This site is a place for me to share my learning journey and develop my thinking. I enjoy not only the idea of making bets on non-consensus trends but also using economics as a lens through which to view the world. 
+This site is a place for me to share my learning journey and develop my thinking. I enjoy developing non-consensus views on markets and using economics as a lens through which to better understand the world. 
 
 Views are my own and do not represent my employer.
