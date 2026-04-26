@@ -1,3 +1,9 @@
+---
+layout: post
+title: Debt Mechanics and the Dollar
+date: 2026-04-26
+--- 
+
 History is replete with currency crises like Thailand in 1997, Latin America in the 1980s, or the 1998 Russian financial crisis. 
 Such problems tend to happen in countries that are reliant on capital inflows, so a large portion of the debts are denominated in foreign currencies. 
 The effects of currency devaluations are severe and may include much higher import costs, a large GDP gap, and banking crises. 
