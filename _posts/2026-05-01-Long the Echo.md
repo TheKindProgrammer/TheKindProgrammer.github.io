@@ -74,7 +74,8 @@ Countries like Egypt, Pakistan and Bangladesh are particularly hard hit where th
 In some of these countries, food can account for nearly 40% of household spending (household surveys). 
 Sulfur shortages also matter at the margin because sulfur is an essential plant nutrient that affects wheat yield and quality. 
 
-![ureafood](/assets/post3/ureafood.png)
+*Fertilizer vs food price:*
+![ureafood](/assets/post3/ureafood2.png)
 
 Wheat also doesn’t need a perpetual blockage to work. U.S. wheat acres and crop conditions are weak. 
 The U.S. is planting little wheat compared to historical standards. 
