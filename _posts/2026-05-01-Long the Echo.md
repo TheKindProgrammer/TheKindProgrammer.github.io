@@ -131,7 +131,7 @@ Lower yields means higher bond prices. A short crude position is the more direct
 
 ### Where the Trade Falls Short
 
-#### Fast Hormuz de-escalation
+#### Fast Hormuz De-escalation
 Peace arrives faster than expected. 
 Even if U.S. wheat crop is not great, the panic premium can disappear quickly. 
 Not only would a call lose directionally, but implied vol can also fall, which would be bad for the option price. 
@@ -147,8 +147,7 @@ The wheat panic buy actually needs to show up.
 MENA (Middle East and North Africa) importers may draw down inventories, delay purchases, or diversify suppliers. 
 The panic bid may be weaker. 
 
-#### Sugar surplus
-
+#### Sugar Surplus
 Global surplus can absorb the shock. 
 There’s anywhere from a 5 million to 11 million metric tonne surplus depending on the informational source. 
 The market has a buffer. Sugar could rally a little but maybe not enough for expensive calls to pay.
@@ -158,7 +157,6 @@ Higher rates can lead to a stronger dollar.
 That would raise carry costs and pressure emerging-market importers and offset some of the bullish supply-side story.
 
 #### SONIA Hedge Failure
-
 SONIA is not a perfect hedge because sticky wage and services inflation can keep the BoE hawkish.
 
 ### Conclusion 
