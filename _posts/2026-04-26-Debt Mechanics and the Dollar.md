@@ -110,10 +110,10 @@ In periods of global stress, the dollar usually strengthens.
 U.S. asset markets are deep and liquid. 
 The U.S. attracts a ton of capital due to favorable corporate profitability dynamics and tech leadership. 
 Consider the exposure global investors want to U.S. tech, venture, and public equity. 
-The IMF and BIS show that the the dollar still accounts for over 80% of trade finance and nearly 60% of FX reserves. 
+The IMF and BIS show that the dollar still accounts for over 80% of trade finance and nearly 60% of FX reserves. 
 There is no good substitute right now. Some might even say the dollar is not overly expensive. 
 It recently fell to a 4 year low. Relative rates and asset returns favor the dollar. 
-The U.S. 10 year was recently at 4.34% while comparable German bunds trade at 2.91% and Japanese bonds at 2.35%.
+The U.S. 10-year was recently at 4.34% while comparable German bunds trade at 2.91% and Japanese bonds at 2.35%.
 
 While I’m not here to predict exactly where the dollar is headed, the dollar is not a simple exchange rate. 
 It reflects the price of access to the global financial system. 
@@ -123,11 +123,11 @@ In any case, a deficit of 6% of GDP may be unsustainable over the long term unle
 ![debtgdp](/assets/post2/linearizeddebt.png)
 
 dt is the debt to GDP ratio and delta d is the change in debt to GDP as measured by current period debt to GDP minus previous period debt to GDP. 
-R is the nominal interest rate and g is the nominal growth rate. 
+r is the nominal interest rate and g is the nominal growth rate. 
 Pt is the primary deficit as a percentage of GDP. 
 When r exceeds g debt to gdp tends to rise. When g exceeds r debt to GDP tends to fall. 
 Running a large deficit increases P. 
-In the long run U.S. pattern has been g>r; however, post covid r and g became less favorable for U.S. debt dynamics. 
+In the long run U.S. pattern has been g>r; however, post-covid r and g became less favorable for U.S. debt dynamics. 
 R is probably a lot closer to g than it used to be. 
 
 America’s danger is a less sudden Thai-style currency crash than a slow shift in which the world stops treating treasuries as neutral plumbing. 
