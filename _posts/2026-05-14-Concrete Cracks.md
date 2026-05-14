@@ -85,7 +85,7 @@ The deposit data tell the same story. In 2024, China’s RMB deposits rose by 17
 
 ### Section 6 — Gold is Becoming an Alternative Savings Asset
 
-Gold is not a perfect substitute for housing. It does not provide shelter, rental income, or leverage. It is also far smaller than China’s property market. It is liquid, familiar, widely accepted, outside the property-credit system, and historically understood as a store of value. For a household that no longer trusts property as a one-way savings vehicle, gold offers a way to preserve purchasing power without taking equity-like risk.
+Gold is liquid, familiar, widely accepted, outside the property-credit system, and historically understood as a store of value. For a household that no longer trusts property as a one-way savings vehicle, gold offers a way to preserve purchasing power without taking equity-like risk.
 
 The mechanism is not mass liquidation from apartments into gold. Housing is too illiquid for that. The more realistic channel is marginal: new savings, down-payment money, speculative property demand, and defensive capital that might once have gone into housing can be redirected elsewhere. In a country with a huge savings pool, even a small portfolio shift can matter for a much smaller market like gold.
 
