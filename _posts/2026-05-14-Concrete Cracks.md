@@ -134,4 +134,4 @@ I view the situation as a multi-year setup, not a short-term trade. Property str
 
 ### Section 10 - Conclusion
 
-China does not need a dramatic crisis for Gold/CNY to matter. The thesis only requires a damaged property savings channel, cautious households, low-yielding alternatives, and enough concern about yuan purchasing power to redirect a small share of domestic savings toward gold. In a system this large, marginal flows can matter.
+China does not need a dramatic crisis for gold/CNY to matter. The thesis only requires a damaged property savings channel, cautious households, low-yielding alternatives, and enough concern about yuan purchasing power to redirect a small share of domestic savings toward gold. In a system this large, marginal flows can matter.
