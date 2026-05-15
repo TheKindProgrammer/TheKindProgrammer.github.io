@@ -109,7 +109,7 @@ The 2024 data show why this matters. According to the World Gold Council, the RM
 
 ![goldyuan](/assets/post4/GoldYuan.png)
 
-That is why Gold/CNY is not just a gold chart. It is a chart of gold measured against the currency Chinese households are trying to protect. If China’s property downturn leads to lower rates, fiscal rescues, monetary easing, or renewed yuan pressure, gold priced in yuan can benefit even if the global gold move is only part of the story.
+That is why gold/CNY is not just a gold chart. It is a chart of gold measured against the currency Chinese households are trying to protect. If China’s property downturn leads to lower rates, fiscal rescues, monetary easing, or renewed yuan pressure, gold priced in yuan can benefit even if the global gold move is only part of the story.
 
 The case does not require a currency crisis or a collapse in the banking system. It only requires a large domestic savings pool, fewer trusted stores of value, and enough concern about property and yuan purchasing power to redirect some marginal savings toward a scarce, liquid asset. Gold/CNY captures that pressure better than gold in dollar terms alone.
 
@@ -129,6 +129,8 @@ The clearest signs of a weakening thesis would be falling Chinese gold ETF holdi
 ### Section 9 - Trade Execution
 
 The idea is clean, but the trade is messy. Most American investors cannot easily buy a liquid U.S.-listed product that directly tracks gold in yuan. A gold ETF gives gold exposure, but not direct yuan exposure. A yuan hedge can be added separately, but that introduces complexity. Gold/CNY may be best understood as the clean macro signal, while the actual trade may require imperfect proxies.
+
+I view the situation as a multi-year setup, not a short-term trade. Property stress and household portfolio shifts could take 3-7 years to fully show up in the gold/CNY market.
 
 ### Section 10 - Conclusion
 
