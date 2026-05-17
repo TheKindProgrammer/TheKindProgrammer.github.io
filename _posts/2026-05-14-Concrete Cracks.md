@@ -27,7 +27,7 @@ China’s mortgage boycotts began in July 2022 and spread very quickly. Homebuye
 
 ### Section 2 - The Monetary Backdrop: Why Savings Flowed Into Housing
 
-China’s property boom did not happen in isolation. It sat on top of a monetary system that created large amounts of domestic savings and credit, then kept much of that money inside the country. China’s M2 broad money supply rose dramatically from 2000 to 2024 at a rate much faster than the United States and other developed countries (14.6% vs 6.3% for the U.S.). The broad money stock was 306.9 trillion yuan, equal to about 227% of GDP (World Bank). China’s rapid money and credit expansion, combined with capital controls, high savings, state-guided banking, and local government dependence on land finance, created a system where excess savings and credit were channeled into property.
+China’s property boom did not happen in isolation. It sat on top of a monetary system that created large amounts of domestic savings and credit, then kept much of that money inside the country. China’s M2 broad money supply rose dramatically from 2000 to 2024 at a rate much faster than the United States and other developed countries (14.6% vs 6.3% for the U.S.). The broad money stock was 306.9 trillion yuan in 2024, equal to about 227% of GDP (World Bank). China’s rapid money and credit expansion, combined with capital controls, high savings, state-guided banking, and local government dependence on land finance, created a system where excess savings and credit were channeled into property.
 
 ![m2growth](/assets/post4/M2Comparison.png)
 
