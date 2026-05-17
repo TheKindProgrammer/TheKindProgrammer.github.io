@@ -6,7 +6,7 @@ date: 2026-05-14
 
 Property losses damage China’s main household savings asset. This is not a claim that every yuan leaving property investments goes into gold. I'm interested in a more marginal thesis: even a small portfolio shift can matter because China’s domestic savings pool is enormous and the available trusted alternatives are narrow.
 
-**TL;DR:** For years, Chinese households treated property like a savings account made of concrete. As that confidence cracks, the next marginal yuan looks for somewhere safer. With capital controls, low deposit yields, and weak equity-market trust, gold becomes a natural alternative — and Gold/CNY captures both the gold bid and the yuan-protection angle.
+**TL;DR:** For years, Chinese households treated property like a savings account made of concrete. As that confidence cracks, the next marginal yuan looks for somewhere safer. With capital controls, low deposit yields, and weak equity-market trust, gold becomes a natural alternative — and gold/CNY captures both the gold bid and the yuan-protection angle.
 
 ### Section 1 — China’s Investment-heavy Model
 Investment has been an unusually large share of Chinese GDP growth. China’s gross fixed capital formation was about 40.5% of GDP in 2023, according to the World Bank. That is very high for a major economy. Most developed economies hover in the low to mid 20s or below. A large portion of national income goes into building physical capital. That means China’s growth engine depends less on household consumption and more on adding fixed assets like housing, factories, infrastructure, machinery, roads, and railways.
@@ -64,9 +64,9 @@ China can’t easily solve its downturn without either weakening the currency, d
 
 Foreign reserves are not a simple bailout fund for a domestic property problem. They are foreign-currency assets and part of the credibility behind the yuan. If China drew reserves down sharply while trying to stabilize the system, households, corporates, and foreign investors could read the decline as a stress signal. They might conclude that capital outflow pressure is rising, that the currency is being defended, or that the domestic balance-sheet problem is larger than officials admit. In that sense, the danger is not just the loss of reserves; it is the message a large reserve drawdown would send.
 
-Monetary financing is a solution where the central bank creates money to absorb losses, bail out banks, and support developers. If China prints too much to paper over property losses, it also risks inflation and currency depreciation (Gold/CNY benefits). If savers think the policy answer is to dilute the currency to protect the system, they have more reason to look for assets outside the property-credit machine and inside harder stores of value.
+Monetary financing is a solution where the central bank creates money to absorb losses, bail out banks, and support developers. If China prints too much to paper over property losses, it also risks inflation and currency depreciation (gold/CNY benefits). If savers think the policy answer is to dilute the currency to protect the system, they have more reason to look for assets outside the property-credit machine and inside harder stores of value.
 
-Fiscal bonds could help where the central government issues new bonds and uses the proceeds to rescue banks and unfinished housing projects. However, they are constrained by the size of the losses, investor confidence, and the risk of turning a property problem into a sovereign balance-sheet problem (Gold/CNY benefits). China’s total credit to the non-financial-sector is close to 300% of GDP, reflecting borrowing by households, non-financial corporations, and the general government. It could also crowd out productive credit instead of money going to new private-sector activity.
+Fiscal bonds could help where the central government issues new bonds and uses the proceeds to rescue banks and unfinished housing projects. However, they are constrained by the size of the losses, investor confidence, and the risk of turning a property problem into a sovereign balance-sheet problem (gold/CNY benefits). China’s total credit to the non-financial-sector is close to 300% of GDP, reflecting borrowing by households, non-financial corporations, and the general government. It could also crowd out productive credit instead of money going to new private-sector activity.
 
 Credit grew much faster than the underlying economy:
 ![totalcredit](/assets/post4/totalcredit.png)
@@ -103,7 +103,7 @@ Gold also has official-sector validation. The PBOC has continued adding to gold 
 
 ### Section 7 — Why Gold/CNY Specifically
 
-Gold/CNY is the cleanest expression of this thesis because a Chinese saver experiences gold in yuan terms, not dollar terms. The price combines two forces: the global gold price and the exchange rate. If gold rises in dollars, Gold/CNY rises. If the yuan weakens, Gold/CNY also rises. If both happen together, the move compounds.
+Gold/CNY is the cleanest expression of this thesis because a Chinese saver experiences gold in yuan terms, not dollar terms. The price combines two forces: the global gold price and the exchange rate. If gold rises in dollars, Gold/CNY rises. If the yuan weakens, gold/CNY also rises. If both happen together, the move compounds.
 
 The 2024 data show why this matters. According to the World Gold Council, the RMB gold price rose 28% in 2024, its highest annual return since 2009, while the USD gold price rose 27%, its strongest gain since 2010. The Council said global gold strength was driven by geopolitical risk and continued central-bank buying, while a weaker yuan helped support the RMB gold price further. USD/CNY rose about 3.1% in 2024, meaning the yuan weakened against the dollar. For a yuan-based saver, the local gold return was not just about gold. It was also about preserving purchasing power.
 
@@ -122,7 +122,7 @@ The second risk is related to the first: Chinese households regain confidence in
 
 The third risk is currency strength. Gold/CNY benefits when gold rises globally or when the yuan weakens. But if the yuan strengthens meaningfully, it can offset some of the gain from gold. A credible policy response, stronger growth, capital inflows, or broad dollar weakness could all support the yuan. In that case, gold might still rise in dollar terms while Gold/CNY performs less impressively. For example, China has large trade surplus. A trade surplus supports the yuan because export earnings create net foreign-currency inflows that are often converted back into yuan, increasing demand for the currency.
 
-The fourth risk is a global gold bear market. If U.S. real yields rise, the dollar strengthens, inflation fears fade, geopolitical demand cools, or central-bank buying slows, global gold prices could fall. Since Gold/CNY still depends partly on the global gold price, yuan weakness alone may not be enough to protect the trade if gold itself enters a major drawdown.
+The fourth risk is a global gold bear market. If U.S. real yields rise, the dollar strengthens, inflation fears fade, geopolitical demand cools, or central-bank buying slows, global gold prices could fall. Since gold/CNY still depends partly on the global gold price, yuan weakness alone may not be enough to protect the trade if gold itself enters a major drawdown.
 
 The clearest signs of a weakening thesis would be falling Chinese gold ETF holdings, weaker bar and coin demand, a recovery in property sales and land revenue, rising household willingness to consume or invest, and a stronger yuan. Those would suggest that defensive savings pressure is fading.
 
