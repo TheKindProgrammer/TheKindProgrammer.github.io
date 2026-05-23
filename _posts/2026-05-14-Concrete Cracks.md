@@ -54,9 +54,7 @@ The balance-sheet stress shows up in earnings coverage as well. Atlantic Council
 
 ![zombies](/assets/post4/zombies.png)
 
-The banking system is exposed because property was not just another loan category. It was the collateral base behind a large part of the credit system. Property loans were still roughly 52.8 trillion yuan at the end of 2024, including 13.56 trillion yuan of development loans. Not every mortgage will default, and banks may not suddenly collapse.
-
-A large stock of credit was built around the assumption that property was valuable and politically reliable collateral. When that assumption weakens, losses can be absorbed slowly through restructurings, lower bank margins, delayed recognition, and policy support, but the effect is still a drag on credit creation and confidence.
+The banking system is exposed because property was not just another loan category. It was the collateral base behind a large part of the credit system. Property loans were still roughly 52.8 trillion yuan at the end of 2024, including 13.56 trillion yuan of development loans. A large stock of credit was built around the assumption that property was valuable and politically reliable collateral. When that assumption weakens, losses can be absorbed slowly through restructurings, lower bank margins, delayed recognition, and policy support, but the effect is still a drag on credit creation and confidence.
 
 ### Section 4 — Challenges in Solving a Multi-Trillion-Dollar Property Problem
 
