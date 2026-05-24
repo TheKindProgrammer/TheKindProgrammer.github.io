@@ -19,7 +19,7 @@ Chinese local governments relied heavily on selling land-use rights to developer
 
 ![lgfvdebt](/assets/post4/lgfvdebt.png)
 
-PIIE says land-sale revenue rose from almost 20% of total local government revenue in 2012 to 38% of total local government revenue in 2021 when including property-related taxes, and land-related income. Other estimates are higher, depending on how broadly land-related revenue is defined. However, the conclusion is the same: local fiscal capacity became tied to rising land values.
+PIIE says land-sale revenue rose from almost 20% of total local government revenue in 2012 to 38% of total local government revenue in 2021 when including property-related taxes, and land-related income. Other estimates are higher, depending on how broadly land-related revenue is defined.
 
 In China, developers commonly sold apartments before they were completed. The Ponzi-like dynamic meant developers used pre-sales cash to buy more land, start more projects, or service debts. As long as home prices kept rising, buyers kept trusting developers, and new pre-sales generated cash, the system worked. 
 
@@ -35,7 +35,7 @@ When banks expand lending, deposits are created. Those deposits become the fuel 
 
 ![householdsheets](/assets/post4/householdbalancesheet.png)
 
-That is why housing became more than shelter. It became the household sector’s preferred savings vehicle. Developers could pre-sell apartments because buyers trusted the asset. Local governments could sell land because developers trusted future demand. Banks could lend against property because collateral values kept rising. The result was a self-reinforcing system where money creation, household savings, and property prices all pointed in the same direction.
+Developers could pre-sell apartments because buyers trusted the asset. Local governments could sell land because developers trusted future demand. Banks could lend against property because collateral values kept rising. The result was a self-reinforcing system where money creation, household savings, and property prices all pointed in the same direction.
 
 ### Section 3 — The Property Flywheel is Breaking
 
@@ -79,11 +79,11 @@ Households are not responding to the property downturn by spending aggressively.
 
 ![householdpreference](/assets/post4/householdtendencies.png)
 
-The deposit data tell the same story. In 2024, China’s RMB deposits rose by 17.99 trillion yuan, and household deposits accounted for 14.26 trillion yuan of that increase. In other words, households represented roughly 79% of new deposit growth. Retail sales rose only 3.5% in 2024, below the economy’s 5.0% GDP growth rate, while household consumption remained just 39.9% of GDP. Household consumption in the United States, for example, accounts for roughly 68% of GDP. The household sector is not behaving like it has found a new engine of confidence. It is behaving like it wants safety and optionality. Gold sits between savings and investment. It does not produce income like a bond or business, but it can preserve purchasing power when confidence in deposits, property, or currency weakens. In that sense, gold becomes less a bet on growth and more a defensive savings vehicle.
+The deposit data tell the same story. In 2024, China’s RMB deposits rose by 17.99 trillion yuan, and household deposits accounted for 14.26 trillion yuan of that increase. In other words, households represented roughly 79% of new deposit growth. Retail sales rose only 3.5% in 2024, below the economy’s 5.0% GDP growth rate, while household consumption remained just 39.9% of GDP. Household consumption in the United States, for example, accounts for roughly 68% of GDP. The household sector is not behaving like it has found a new engine of confidence. It is behaving like it wants safety and optionality.
 
 ### Section 6 — Gold is Becoming an Alternative Savings Asset
 
-Gold is liquid, familiar, widely accepted, outside the property-credit system, and historically understood as a store of value. For a household that no longer trusts property as a one-way savings vehicle, gold offers a way to preserve purchasing power without taking equity-like risk.
+Gold sits between savings and investment. It does not produce income like a bond or business, but it can preserve purchasing power when confidence in deposits, property, or currency weakens. In that sense, gold becomes less a bet on growth and more a defensive savings vehicle. Gold is liquid, familiar, widely accepted, outside the property-credit system, and historically understood as a store of value. For a household that no longer trusts property as a one-way savings vehicle, gold offers a way to preserve purchasing power without taking equity-like risk.
 
 The mechanism is not mass liquidation from apartments into gold. Housing is too illiquid for that. The more realistic channel is marginal: new savings, down-payment money, speculative property demand, and defensive capital that might once have gone into housing can be redirected elsewhere. In a country with a huge savings pool, even a small portfolio shift can matter for a much smaller market like gold.
 
@@ -93,7 +93,7 @@ Gold ETF demand tells the same story. Apollo’s chart of Chinese gold ETF flows
 
 ![etfflow](/assets/post4/goldetfflows.png)
 
-Chinese gold ETF inflows are not perfect evidence of savings-driven demand, however. Some of the flow is almost certainly speculative, especially after a strong price rally and rising futures activity. But the ETF data becomes more meaningful when viewed alongside the other factors. 
+Chinese gold ETF inflows are not perfect evidence of savings-driven demand, however. Some of the flow is almost certainly speculative, especially after a strong price rally and rising futures activity. 
 
 Gold also has official-sector validation. The PBOC has continued adding to gold reserves, and World Gold Council data show that global central banks bought more than 1,000 tonnes of gold in 2024 for the third consecutive year. Household gold buying and central-bank gold buying are not the same thing, but they reflect a similar preference for an asset outside the normal credit system.
 
@@ -107,9 +107,7 @@ The 2024 data show why this matters. According to the World Gold Council, the RM
 
 ![goldyuan](/assets/post4/GoldYuan.png)
 
-That is why gold/CNY is not just a gold chart. It is a chart of gold measured against the currency Chinese households are trying to protect. If China’s property downturn leads to lower rates, fiscal rescues, monetary easing, or renewed yuan pressure, gold priced in yuan can benefit even if the global gold move is only part of the story.
-
-The case does not require a currency crisis or a collapse in the banking system. It only requires a large domestic savings pool, fewer trusted stores of value, and enough concern about property and yuan purchasing power to redirect some marginal savings toward a scarce, liquid asset. Gold/CNY captures that pressure better than gold in dollar terms alone.
+If China’s property downturn leads to lower rates, fiscal rescues, monetary easing, or renewed yuan pressure, gold priced in yuan can benefit even if the global gold move is only part of the story.
 
 ### Section 8 - Where the Trade Falls Short
 Gold/CNY works best if property remains impaired, households stay defensive, policy keeps yields low, and the yuan faces pressure. If those conditions change, the trade can fall short.
