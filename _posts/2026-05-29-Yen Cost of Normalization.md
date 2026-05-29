@@ -19,7 +19,6 @@ Japan has also borrowed heavily through the 2008 financial crisis, earthquake/nu
 
 A rapidly aging population also means Japan spends heavily on healthcare, long-term care, and pensions. For example, Japan has the most extreme aging profile: nearly three in ten people are already 65 or older. The OECD average is 18.6%. The oldest cohorts also consume disproportionately more medical and long-term care resources where publicly financed care costs accelerate sharply.
 
-From Japanese Ministry of Finance:
 ![healthcare](/assets/post5/healthcare.png)
 
 Japan began normalizing monetary policy because the conditions that justified decades of extraordinary easing had started to change. For much of the post-bubble period, the BOJ was fighting deflation and weak wage growth; by 2024, inflation had remained above its 2% target for an extended period and annual wage negotiations showed the strongest pay increases in decades. That gave policymakers greater confidence that price increases were becoming supported by domestic wages and demand rather than reflecting only temporary imported-cost pressures. Ending negative interest rates and stepping away from yield curve control was therefore an attempt to withdraw policies designed for a deflationary economy, while allowing longer-term government-bond yields to respond more freely to inflation expectations and market demand.
