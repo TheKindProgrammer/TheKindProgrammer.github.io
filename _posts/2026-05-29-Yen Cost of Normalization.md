@@ -106,7 +106,7 @@ The transmission mechanism is straightforward: a weaker yen raises import prices
 
 Currency weakness turns foreign prices into higher domestic costs. Both imported food and domestically produced food that relies on foreign inputs remain exposed to currency weakness. For example, in FY2024 Japan produced 47% of its calorie supply domestically, but its self-sufficiency rate fell to 38% once imported feed was accounted for (Source: Japanese Ministry of Agriculture, Forestry and Fisheries).
 
-From Noguchi Asahi’s meeting with Local Leaders in Oita on November 27, 2025: 
+From Noguchi Asahi’s meeting with local leaders in Oita on November 27, 2025: 
 ![importprices](/assets/post5/importprices.png)
 
 <figure style="margin: 1.5rem 0; text-align: center;">
