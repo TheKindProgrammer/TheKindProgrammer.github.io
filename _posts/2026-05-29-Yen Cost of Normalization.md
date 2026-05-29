@@ -85,7 +85,6 @@ The NIIP is a stock while the current account is a flow. The current account rec
 Black triangles are negative values:
 ![CA](/assets/post5/CA.png)
 
-From the Ministry of Finance:
 ![currentaccount](/assets/post5/currentaccount.png)
 
 That shift reflects a deeper transformation in how Japan earns from the rest of the world. The BOJ’s measure of macro money flows shows that Japanese outward investment has moved increasingly toward direct investment: ownership of overseas companies, factories, and operating businesses, rather than primarily holdings of foreign debt securities. 
