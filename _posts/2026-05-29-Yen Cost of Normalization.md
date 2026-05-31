@@ -15,7 +15,7 @@ From the IMF:
 
 Some estimates are higher or lower depending on the source, but one thing is clear: Japan has by far the highest gross debt to GDP among developed countries. There are a few reasons. After the 1990s asset bubble collapse, growth weakened and tax revenue fell. The government used deficit spending to support the economy. Public debt to GDP rose from 60% in 1991 to 120% by 1999. Decades of weak nominal growth and deflation caused the numerator (debt) to grow faster than the denominator (GDP). 
 
-Japan has also borrowed heavily through the 2008 financial crisis, earthquake/nuclear disasters, and the Covid-19 period. For example, new bond issuance reached 51.9 trillion yen in FY2009. Japan authorized 11.25 trillion yen of reconstruction bonds in the FY2011 plan. Then, in Covid-19 new government bond issuance reached a record 112.6 trillion yen in FY2020. The above figures come from a Ministry of Finance 2021 Debt Management Report.
+Japan has also borrowed heavily through the 2008 financial crisis, earthquake/nuclear disasters, and the Covid-19 period. For example, new bond issuance reached 51.9 trillion yen in FY2009. Japan authorized 11.25 trillion yen of reconstruction bonds in the FY2011 plan. Then, in COVID-19 new government bond issuance reached a record 112.6 trillion yen in FY2020. The above figures come from a Ministry of Finance 2021 Debt Management Report.
 
 A rapidly aging population also means Japan spends heavily on healthcare, long-term care, and pensions. For example, Japan has the most extreme aging profile: nearly three in ten people are already 65 or older. The OECD average is 18.6%. The oldest cohorts also consume disproportionately more medical and long-term care resources where publicly financed care costs accelerate sharply.
 
@@ -70,7 +70,7 @@ Those losses are particularly relevant for institutions holding long-dated bonds
 
 ![debtholders](/assets/post5/debtholders.png)
 
-If an institution holds a JGB until maturity, the Japanese government still pays the promised principal and coupons, assuming no default. Rising yields nevertheless reduce the bond’s market value, and the institution may realize that loss if it sells before maturity. The losses can still matter, however, since they can affect reported balance-sheet strength, make institutions reluctant to buy more bonds, and increase market volatility if investors need to sell. 
+If an institution holds a JGB until maturity, the Japanese government still pays the promised principal and coupons, assuming no default. Rising yields nevertheless reduce the bond’s market value, and the institution may realize that loss if it sells before maturity. The unrealized losses can still matter, however, since they can affect reported balance-sheet strength, make institutions reluctant to buy more bonds, and increase market volatility if investors need to sell. 
 
 The danger is not that modestly higher yields automatically produce a banking crisis. None of this means that Japan cannot raise rates or allow yields to move higher. It means that doing so rapidly carries unusually large consequences. A slower path reduces the risk of sudden domestic disruption, but leaves Japanese yields relatively unfavorable against foreign alternatives.
 
@@ -100,7 +100,7 @@ The distinction matters for the currency. Export receipts may create demand for 
 
 ### How Yen Weakness Reaches Households
 
-The transmission mechanism is straightforward: a weaker yen raises import prices, higher import prices increase producer costs, and sustained cost pressure eventually reaches consumer prices. Japan imports a significant amount of energy, food, and raw materials. Many of those goods are internationally priced in dollars. If one barrel of oil costs 80 dollars and the exchange rate is 110 yen per dollar then the cost in yen is 8,800. If suddenly the yen weakens to 155 yen per dollar then the cost in yen for the same barrel of oil becomes 12,400. The dollar price of the oil didn’t change. The Japanese buyer now pays about 41% more in yen. That’s the first link. 
+The transmission mechanism is straightforward: a weaker yen raises import prices, higher import prices increase producer costs, and sustained cost pressure eventually reaches consumer prices. Japan imports a significant amount of energy, food, and raw materials. Many of those goods are internationally priced in dollars. If one barrel of oil costs 80 dollars and the exchange rate is 110 yen per dollar then the cost in yen is 8,800. If suddenly the yen weakens to 155 yen per dollar then the cost in yen for the same barrel of oil becomes 12,400. The dollar price of the oil didn’t change. The Japanese buyer now pays about 41% more in yen. That’s the first link. The effect is not immediate. Firms can initially absorb higher import costs through lower margins, and government subsidies can temporarily suppress household bills. But sustained currency weakness makes absorption harder.
 
 Currency weakness turns foreign prices into higher domestic costs. Both imported food and domestically produced food that relies on foreign inputs remain exposed to currency weakness. For example, in FY2024 Japan produced 47% of its calorie supply domestically, but its self-sufficiency rate fell to 38% once imported feed was accounted for (Source: Japanese Ministry of Agriculture, Forestry and Fisheries).
 
@@ -116,8 +116,6 @@ From Noguchi Asahi’s meeting with local leaders in Oita on November 27, 2025:
 
 Energy dependence:
 ![energyimports](/assets/post5/energyimports.png)
-
-The effect is not immediate. Firms can initially absorb higher import costs through lower margins, and government subsidies can temporarily suppress household bills. But sustained currency weakness makes absorption harder. Higher yen denominated import prices move through producer costs and eventually into the prices consumers pay for goods and services. 
 
 The strength of the Japanese equity market does not disprove the cost of yen weakness. It reveals those who benefit from it. Japanese firms earning profits overseas and investors holding foreign assets may benefit as foreign currency income becomes more valuable. Households whose income and savings are primarily domestic do not receive the same protection. They experience yen weakness through higher food, fuel, and utility costs. If nominal wage growth fails to keep pace with inflation then households get squeezed. 
 
