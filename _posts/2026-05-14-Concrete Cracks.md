@@ -2,6 +2,8 @@
 layout: post
 title: 'Concrete Cracks, Gold Glitters: China’s Search for a New Store of Value'
 date: 2026-05-14
+tags: [China, Property, Gold]
+description: A savings-channel thesis for gold as China's property bust continues.
 --- 
 
 Property losses damage China’s main household savings asset. This is not a claim that every yuan leaving property investments goes into gold. I'm interested in a more marginal thesis: even a small portfolio shift can matter because China’s domestic savings pool is enormous and the available trusted alternatives are narrow.
