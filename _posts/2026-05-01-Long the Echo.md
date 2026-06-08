@@ -2,6 +2,8 @@
 layout: post
 title: 'Long the Echo, Not the Shock: Wheat, Sugar and SONIA in an Oil Shock'
 date: 2026-05-01
+tags: [Commodities, Energy, Rates]
+description: Asymmetric trade construction during a Hormuz disruption.
 --- 
 
 This post is an example of how to turn a geopolitical shock into a cross-asset framework: 
