@@ -2,6 +2,8 @@
 layout: post
 title: Debt Mechanics and the Dollar
 date: 2026-04-26
+tags: [Debt, Currency Crises, Dollar]
+description: Currency crises offer a framework for understanding U.S. debt stress and the dollar’s global role.
 --- 
 
 History is replete with currency crises like Thailand in 1997, Latin America in the 1980s, or the 1998 Russian financial crisis. 
