@@ -1,0 +1,150 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <div class="post-search" role="search">
+      <label class="post-search-label" for="post-search-input">Search articles</label>
+      <input
+        id="post-search-input"
+        class="post-search-input"
+        type="search"
+        inputmode="search"
+        placeholder="Search articles..."
+        autocomplete="off"
+        data-post-search
+      >
+      <div class="post-search-meta" aria-live="polite" data-search-count></div>
+    </div>
+
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <ul class="post-list">
+      {%- for post in site.posts -%}
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- assign post_date = post.date | date: date_format -%}
+      {%- assign tag_text = post.tags | join: " " -%}
+      {%- assign post_description = post.description | default: "" -%}
+      {%- assign search_text = post.title | append: " " | append: post_date | append: " " | append: tag_text | append: " " | append: post_description | append: " " | append: post.content | strip_html | normalize_whitespace | downcase -%}
+      {%- assign tag_keys = post.tags | join: "|" | downcase -%}
+      <li data-search="{{ search_text | escape }}" data-tags="{{ tag_keys | escape }}">
+        <span class="post-meta">{{ post_date }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {%- if post.description -%}
+          <p class="post-description">{{ post.description | escape }}</p>
+        {%- endif -%}
+        {%- if post.tags.size > 0 -%}
+          <div class="topic-list" aria-label="Topics">
+            {%- for tag in post.tags -%}
+              <button class="topic-tag" type="button" data-topic-filter="{{ tag | escape }}">{{ tag }}</button>
+            {%- endfor -%}
+          </div>
+        {%- endif -%}
+        {%- if site.show_excerpts -%}
+          {{ post.excerpt }}
+        {%- endif -%}
+      </li>
+      {%- endfor -%}
+    </ul>
+
+    <p class="post-search-empty" hidden data-search-empty>No articles match that search.</p>
+
+  {%- endif -%}
+</div>
+
+<script>
+  (function () {
+    var input = document.querySelector("[data-post-search]");
+    var posts = Array.prototype.slice.call(document.querySelectorAll(".post-list > li"));
+    var topicButtons = Array.prototype.slice.call(document.querySelectorAll("[data-topic-filter]"));
+    var count = document.querySelector("[data-search-count]");
+    var empty = document.querySelector("[data-search-empty]");
+    var activeTopic = "";
+
+    if (!input || posts.length === 0) {
+      return;
+    }
+
+    function terms(value) {
+      return value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    }
+
+    function updateSearch() {
+      var queryTerms = terms(input.value);
+      var visiblePosts = 0;
+
+      posts.forEach(function (post) {
+        var haystack = post.getAttribute("data-search") || post.textContent.toLowerCase();
+        var postTags = (post.getAttribute("data-tags") || "").split("|");
+        var isTextMatch = queryTerms.every(function (term) {
+          return haystack.indexOf(term) !== -1;
+        });
+        var isTopicMatch = !activeTopic || postTags.indexOf(activeTopic) !== -1;
+        var isMatch = isTextMatch && isTopicMatch;
+
+        post.hidden = !isMatch;
+        if (isMatch) {
+          visiblePosts += 1;
+        }
+      });
+
+      if (count) {
+        count.textContent = visiblePosts + (visiblePosts === 1 ? " article" : " articles");
+      }
+
+      if (empty) {
+        empty.hidden = visiblePosts !== 0;
+      }
+    }
+
+    function searchFromUrl() {
+      try {
+        return new URLSearchParams(window.location.search).get("q") || "";
+      } catch (error) {
+        return "";
+      }
+    }
+
+    function topicFromUrl() {
+      try {
+        return new URLSearchParams(window.location.search).get("topic") || "";
+      } catch (error) {
+        return "";
+      }
+    }
+
+    topicButtons.forEach(function (button) {
+      button.addEventListener("click", function () {
+        var topic = button.getAttribute("data-topic-filter") || "";
+        activeTopic = topic.toLowerCase();
+        input.value = topic;
+        updateSearch();
+        input.focus();
+      });
+    });
+
+    var initialTopic = topicFromUrl();
+    if (initialTopic) {
+      activeTopic = initialTopic.toLowerCase();
+      input.value = initialTopic;
+    } else {
+      input.value = searchFromUrl();
+    }
+
+    input.addEventListener("input", function () {
+      activeTopic = "";
+      updateSearch();
+    });
+    updateSearch();
+  })();
+</script>
