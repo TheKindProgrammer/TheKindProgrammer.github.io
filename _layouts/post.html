@@ -4,15 +4,25 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    {%- assign words = content | strip_html | number_of_words -%}
+    {%- assign chart_count = content | split: "<img " | size | minus: 1 -%}
+    {%- assign word_seconds = words | times: 60 | plus: 169 | divided_by: 170 -%}
+    {%- assign chart_seconds = chart_count | times: 30 -%}
+    {%- assign read_time = word_seconds | plus: chart_seconds | plus: 59 | divided_by: 60 -%}
+    {%- if read_time < 1 -%}
+      {%- assign read_time = 1 -%}
+    {%- endif -%}
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+    <p class="post-meta" aria-label="Article details">
+      <time class="post-meta-item dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         {{ page.date | date: date_format }}
       </time>
       {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+        <span class="post-meta-item" itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}
+      <span class="post-meta-item post-read-time">{{ read_time }} min read</span>
+      <meta itemprop="timeRequired" content="PT{{ read_time }}M">
     </p>
 
     {%- if page.tags.size > 0 -%}

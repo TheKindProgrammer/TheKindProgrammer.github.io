@@ -214,13 +214,36 @@ a:hover {
 }
 
 .post-meta {
-  display: inline-block;
+  display: inline-flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 0;
   margin-bottom: 8px;
   color: var(--muted);
   font-size: 0.78rem;
   font-variant-numeric: tabular-nums;
   letter-spacing: 0.03em;
+  line-height: 1.35;
   text-transform: uppercase;
+}
+
+.post-meta-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.post-meta-item + .post-meta-item::before {
+  width: 3px;
+  height: 3px;
+  margin: 0 9px;
+  border-radius: 50%;
+  background: currentColor;
+  content: "";
+  opacity: 0.55;
+}
+
+.post-read-time {
+  color: #5f665f;
 }
 
 .post {

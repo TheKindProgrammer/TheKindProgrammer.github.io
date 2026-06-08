@@ -29,12 +29,23 @@ layout: default
       {%- for post in site.posts -%}
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- assign post_date = post.date | date: date_format -%}
+      {%- assign words = post.content | strip_html | number_of_words -%}
+      {%- assign chart_count = post.content | split: "<img " | size | minus: 1 -%}
+      {%- assign word_seconds = words | times: 60 | plus: 169 | divided_by: 170 -%}
+      {%- assign chart_seconds = chart_count | times: 30 -%}
+      {%- assign read_time = word_seconds | plus: chart_seconds | plus: 59 | divided_by: 60 -%}
+      {%- if read_time < 1 -%}
+        {%- assign read_time = 1 -%}
+      {%- endif -%}
       {%- assign tag_text = post.tags | join: " " -%}
       {%- assign post_description = post.description | default: "" -%}
       {%- assign search_text = post.title | append: " " | append: post_date | append: " " | append: tag_text | append: " " | append: post_description | append: " " | append: post.content | strip_html | normalize_whitespace | downcase -%}
       {%- assign tag_keys = post.tags | join: "|" | downcase -%}
       <li data-search="{{ search_text | escape }}" data-tags="{{ tag_keys | escape }}">
-        <span class="post-meta">{{ post_date }}</span>
+        <span class="post-meta">
+          <span class="post-meta-item">{{ post_date }}</span>
+          <span class="post-meta-item post-read-time">{{ read_time }} min read</span>
+        </span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
