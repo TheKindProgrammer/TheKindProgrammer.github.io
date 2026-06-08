@@ -2,6 +2,8 @@
 layout: post
 title: The Yen and the Cost of Normalization
 date: 2026-05-29
+tags: [Japan, FX, Debt]
+description: Japan’s exit from cheap money may be written less in bonds than in the yen.
 --- 
 
 This article argues that the yen is not just a currency pair. It is increasingly where Japan’s monetary-policy tensions become visible. The BOJ is attempting to normalize interest rates after decades of suppressed yields, but it must do so in an economy carrying enormous public debt, an aging population and a government-bond market still shaped by central-bank ownership. The result is a normalization path that limits immediate strain in the bond market, but leaves the yen as one place where more of the adjustment can appear.
