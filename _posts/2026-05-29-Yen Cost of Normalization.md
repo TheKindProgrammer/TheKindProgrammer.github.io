@@ -84,7 +84,7 @@ The weak yen is not a story of a country dependent on foreign lenders and runnin
 
 The NIIP is a stock while the current account is a flow. The current account records what a country earns from and pays to the rest of the world through goods balance (exports minus imports of goods), services balance (services sold abroad minus services purchased abroad), primary income balance (investment income including dividends and interest), and secondary income balance (transfers like foreign aid). Japan’s surplus story is no longer about factories at home exporting more goods than the country imports. 
 
-Black triangles are negative values:
+Japan's 2025 current account. Black triangles are negative values:
 ![CA](/assets/post5/CA.png)
 
 ![currentaccount](/assets/post5/currentaccount.png)
