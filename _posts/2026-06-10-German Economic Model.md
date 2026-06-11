@@ -3,6 +3,7 @@ layout: post
 title: The German Economic Model in a Fractured World
 date: 2026-06-10
 tags: [Germany, Energy, Bunds]
+description: "Germany’s fiscal turn reflects a deeper regime shift: the old export model built on cheap energy, globalization, and restraint is giving way to defense spending, infrastructure needs, and less exceptional Bunds."
 --- 
 This article argues that Germany’s problem is not that it lost its industrial skill, but that the world its industrial model was built for no longer exists. Germany’s old model featured underinvestment, but it also left the country with the balance-sheet capacity to build for the future. That fiscal space is only useful if it is converted into competitiveness, infrastructure, defense capacity, and domestic investment rather than just larger deficits. A financial expression of this shift is in the Bund market.
 
