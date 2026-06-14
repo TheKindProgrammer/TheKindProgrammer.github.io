@@ -76,7 +76,7 @@ If an institution holds a JGB until maturity, the Japanese government still pays
 
 The danger is not that modestly higher yields automatically produce a banking crisis. None of this means that Japan cannot raise rates or allow yields to move higher. It means that doing so rapidly carries unusually large consequences. A slower path reduces the risk of sudden domestic disruption, but leaves Japanese yields relatively unfavorable against foreign alternatives.
 
-### Why the Current Account Surplus is not Enough
+### About the Current Account Surplus
 
 Japan remains an enormous creditor to the rest of the world. By the end of 2024, its net international investment position (NIIP) stood at 533 trillion yen, reflecting decades of accumulated overseas assets as well as valuation effects: when the yen weakens, foreign-currency assets become worth more when measured in yen. That means Japanese residents owned significantly more in foreign assets than foreign residents owned in Japanese assets. 
 
