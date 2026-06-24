@@ -134,6 +134,20 @@ layout: default
       }
     }
 
+    function applySearchFromUrl() {
+      var initialTopic = topicFromUrl();
+
+      activeTopic = "";
+      if (initialTopic) {
+        activeTopic = initialTopic.toLowerCase();
+        input.value = initialTopic;
+      } else {
+        input.value = searchFromUrl();
+      }
+
+      updateSearch();
+    }
+
     topicButtons.forEach(function (button) {
       button.addEventListener("click", function () {
         var topic = button.getAttribute("data-topic-filter") || "";
@@ -144,18 +158,12 @@ layout: default
       });
     });
 
-    var initialTopic = topicFromUrl();
-    if (initialTopic) {
-      activeTopic = initialTopic.toLowerCase();
-      input.value = initialTopic;
-    } else {
-      input.value = searchFromUrl();
-    }
-
     input.addEventListener("input", function () {
       activeTopic = "";
       updateSearch();
     });
-    updateSearch();
+
+    window.addEventListener("pageshow", applySearchFromUrl);
+    applySearchFromUrl();
   })();
 </script>
