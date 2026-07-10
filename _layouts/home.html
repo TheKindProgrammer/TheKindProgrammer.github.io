@@ -2,167 +2,197 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+{%- assign featured_post = site.posts | where: "url", site.data.featured.url | first -%}
+{%- if featured_post == nil -%}
+  {%- assign featured_post = site.posts.first -%}
+{%- endif -%}
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
 
-  {{ content }}
+<div class="home home-upgraded">
+  <header class="home-intro">
+    <p class="home-kicker">Independent research on global markets.</p>
+  </header>
 
-  {%- if site.posts.size > 0 -%}
-    <div class="post-search" role="search">
-      <label class="post-search-label" for="post-search-input">Search articles</label>
-      <input
-        id="post-search-input"
-        class="post-search-input"
-        type="search"
-        inputmode="search"
-        placeholder="Search articles..."
-        autocomplete="off"
-        data-post-search
-      >
-      <div class="post-search-meta" aria-live="polite" data-search-count></div>
-    </div>
+  {%- if featured_post -%}
+    {%- assign featured_words = featured_post.content | strip_html | number_of_words -%}
+    {%- assign featured_charts = featured_post.content | split: "<img " | size | minus: 1 -%}
+    {%- assign featured_word_seconds = featured_words | times: 60 | plus: 169 | divided_by: 170 -%}
+    {%- assign featured_chart_seconds = featured_charts | times: 30 -%}
+    {%- assign featured_read_time = featured_word_seconds | plus: featured_chart_seconds | plus: 59 | divided_by: 60 -%}
+    {%- if featured_read_time < 1 -%}
+      {%- assign featured_read_time = 1 -%}
+    {%- endif -%}
 
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      {%- assign post_date = post.date | date: date_format -%}
-      {%- assign words = post.content | strip_html | number_of_words -%}
-      {%- assign chart_count = post.content | split: "<img " | size | minus: 1 -%}
-      {%- assign word_seconds = words | times: 60 | plus: 169 | divided_by: 170 -%}
-      {%- assign chart_seconds = chart_count | times: 30 -%}
-      {%- assign read_time = word_seconds | plus: chart_seconds | plus: 59 | divided_by: 60 -%}
-      {%- if read_time < 1 -%}
-        {%- assign read_time = 1 -%}
-      {%- endif -%}
-      {%- assign tag_text = post.tags | join: " " -%}
-      {%- assign post_description = post.description | default: "" -%}
-      {%- assign search_text = post.title | append: " " | append: post_date | append: " " | append: tag_text | append: " " | append: post_description | append: " " | append: post.content | strip_html | normalize_whitespace | downcase -%}
-      {%- assign tag_keys = post.tags | join: "|" | downcase -%}
-      <li data-search="{{ search_text | escape }}" data-tags="{{ tag_keys | escape }}">
-        <span class="post-meta">
-          <span class="post-meta-item">{{ post_date }}</span>
-          <span class="post-meta-item post-read-time">{{ read_time }} min read</span>
-        </span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if post.description -%}
-          <p class="post-description">{{ post.description | escape }}</p>
+    <section class="home-feature-grid" aria-label="Featured article and selected frameworks">
+      <article class="featured-analysis">
+        <p class="section-label">Featured article</p>
+        <h1><a href="{{ featured_post.url | relative_url }}">{{ featured_post.title | escape }}</a></h1>
+        {%- if featured_post.description -%}
+          <p class="featured-description">{{ featured_post.description | escape }}</p>
         {%- endif -%}
-        {%- if post.tags.size > 0 -%}
-          <div class="topic-list" aria-label="Topics">
-            {%- for tag in post.tags -%}
-              <button class="topic-tag" type="button" data-topic-filter="{{ tag | escape }}">{{ tag }}</button>
+        <p class="featured-meta">{{ featured_post.date | date: date_format }} <span aria-hidden="true">•</span> {{ featured_read_time }} min read</p>
+        {%- if featured_post.tags.size > 0 -%}
+          <div class="topic-list" aria-label="Featured analysis topics">
+            {%- for tag in featured_post.tags -%}
+              <a class="topic-tag" href="{{ "/" | relative_url }}?topic={{ tag | url_encode }}#archive">{{ tag }}</a>
             {%- endfor -%}
           </div>
         {%- endif -%}
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+      </article>
+
+      <section class="framework-panel" id="frameworks" aria-labelledby="framework-heading">
+        <p class="section-label" id="framework-heading">Selected frameworks</p>
+        <ul class="framework-list">
+          {%- for framework in site.data.frameworks -%}
+            <li>
+              <a href="{{ framework.url | relative_url }}">
+                <span class="framework-index" aria-hidden="true">0{{ forloop.index }}</span>
+                <span class="framework-copy">
+                  <strong>{{ framework.title }}</strong>
+                  <span>{{ framework.detail }}</span>
+                </span>
+                <span class="framework-arrow" aria-hidden="true">→</span>
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </section>
+    </section>
+  {%- endif -%}
+
+  <section class="recent-research" aria-labelledby="latest-research-heading">
+    <div class="section-heading-row">
+      <h2 id="latest-research-heading">Latest research</h2>
+      <span aria-hidden="true"></span>
+    </div>
+    <ul class="recent-list">
+      {%- assign recent_count = 0 -%}
+      {%- for post in site.posts -%}
+        {%- if post.url != featured_post.url and recent_count < 3 -%}
+        {%- assign words = post.content | strip_html | number_of_words -%}
+        {%- assign chart_count = post.content | split: "<img " | size | minus: 1 -%}
+        {%- assign word_seconds = words | times: 60 | plus: 169 | divided_by: 170 -%}
+        {%- assign chart_seconds = chart_count | times: 30 -%}
+        {%- assign read_time = word_seconds | plus: chart_seconds | plus: 59 | divided_by: 60 -%}
+        {%- if read_time < 1 -%}
+          {%- assign read_time = 1 -%}
         {%- endif -%}
-      </li>
+        <li>
+          <p class="recent-date">{{ post.date | date: date_format }}</p>
+          <div class="recent-copy">
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+            {%- if post.description -%}<p>{{ post.description | escape }}</p>{%- endif -%}
+            <span class="recent-read-time">{{ read_time }} min read</span>
+          </div>
+          {%- if post.tags.size > 0 -%}
+            <div class="topic-list recent-topics" aria-label="Topics">
+              {%- for tag in post.tags -%}
+                <a class="topic-tag" href="{{ "/" | relative_url }}?topic={{ tag | url_encode }}#archive">{{ tag }}</a>
+              {%- endfor -%}
+            </div>
+          {%- endif -%}
+        </li>
+          {%- assign recent_count = recent_count | plus: 1 -%}
+        {%- endif -%}
       {%- endfor -%}
     </ul>
+  </section>
 
-    <p class="post-search-empty" hidden data-search-empty>No articles match that search.</p>
+  {%- if site.posts.size > 0 -%}
+    <details class="archive-panel" id="archive">
+      <summary>
+        <span>Browse the complete archive</span>
+        <span class="archive-count">{{ site.posts.size }} research notes</span>
+      </summary>
+      <div class="archive-content">
+        <div class="post-search" role="search">
+          <label class="post-search-label" for="post-search-input">Search the archive</label>
+          <input id="post-search-input" class="post-search-input" type="search" inputmode="search" placeholder="Search articles..." autocomplete="off" data-post-search>
+          <div class="post-search-meta" aria-live="polite" data-search-count></div>
+        </div>
 
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+            {%- assign post_date = post.date | date: date_format -%}
+            {%- assign words = post.content | strip_html | number_of_words -%}
+            {%- assign chart_count = post.content | split: "<img " | size | minus: 1 -%}
+            {%- assign word_seconds = words | times: 60 | plus: 169 | divided_by: 170 -%}
+            {%- assign chart_seconds = chart_count | times: 30 -%}
+            {%- assign read_time = word_seconds | plus: chart_seconds | plus: 59 | divided_by: 60 -%}
+            {%- if read_time < 1 -%}{%- assign read_time = 1 -%}{%- endif -%}
+            {%- assign tag_text = post.tags | join: " " -%}
+            {%- assign post_description = post.description | default: "" -%}
+            {%- assign search_text = post.title | append: " " | append: post_date | append: " " | append: tag_text | append: " " | append: post_description | append: " " | append: post.content | strip_html | normalize_whitespace | downcase -%}
+            {%- assign tag_keys = post.tags | join: "|" | downcase -%}
+            <li data-search="{{ search_text | escape }}" data-tags="{{ tag_keys | escape }}">
+              <span class="post-meta"><span class="post-meta-item">{{ post_date }}</span><span class="post-meta-item post-read-time">{{ read_time }} min read</span></span>
+              <h3><a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
+              {%- if post.description -%}<p class="post-description">{{ post.description | escape }}</p>{%- endif -%}
+              {%- if post.tags.size > 0 -%}
+                <div class="topic-list" aria-label="Topics">
+                  {%- for tag in post.tags -%}<button class="topic-tag" type="button" data-topic-filter="{{ tag | escape }}">{{ tag }}</button>{%- endfor -%}
+                </div>
+              {%- endif -%}
+            </li>
+          {%- endfor -%}
+        </ul>
+        <p class="post-search-empty" hidden data-search-empty>No articles match that search.</p>
+      </div>
+    </details>
   {%- endif -%}
 </div>
 
 <script>
   (function () {
     var input = document.querySelector("[data-post-search]");
+    var archive = document.querySelector(".archive-panel");
     var posts = Array.prototype.slice.call(document.querySelectorAll(".post-list > li"));
     var topicButtons = Array.prototype.slice.call(document.querySelectorAll("[data-topic-filter]"));
     var count = document.querySelector("[data-search-count]");
     var empty = document.querySelector("[data-search-empty]");
     var activeTopic = "";
 
-    if (!input || posts.length === 0) {
-      return;
-    }
+    if (!input || posts.length === 0) return;
 
-    function terms(value) {
-      return value.toLowerCase().trim().split(/\s+/).filter(Boolean);
+    function terms(value) { return value.toLowerCase().trim().split(/\s+/).filter(Boolean); }
+    function revealArchive() {
+      archive.open = true;
+      window.requestAnimationFrame(function () {
+        archive.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
     }
-
     function updateSearch() {
       var queryTerms = terms(input.value);
       var visiblePosts = 0;
-
       posts.forEach(function (post) {
         var haystack = post.getAttribute("data-search") || post.textContent.toLowerCase();
         var postTags = (post.getAttribute("data-tags") || "").split("|");
-        var isTextMatch = queryTerms.every(function (term) {
-          return haystack.indexOf(term) !== -1;
-        });
-        var isTopicMatch = !activeTopic || postTags.indexOf(activeTopic) !== -1;
-        var isMatch = isTextMatch && isTopicMatch;
-
+        var isMatch = queryTerms.every(function (term) { return haystack.indexOf(term) !== -1; }) && (!activeTopic || postTags.indexOf(activeTopic) !== -1);
         post.hidden = !isMatch;
-        if (isMatch) {
-          visiblePosts += 1;
-        }
+        if (isMatch) visiblePosts += 1;
       });
-
-      if (count) {
-        count.textContent = visiblePosts + (visiblePosts === 1 ? " article" : " articles");
-      }
-
-      if (empty) {
-        empty.hidden = visiblePosts !== 0;
-      }
+      if (count) count.textContent = visiblePosts + (visiblePosts === 1 ? " article" : " articles");
+      if (empty) empty.hidden = visiblePosts !== 0;
     }
-
-    function searchFromUrl() {
-      try {
-        return new URLSearchParams(window.location.search).get("q") || "";
-      } catch (error) {
-        return "";
-      }
-    }
-
-    function topicFromUrl() {
-      try {
-        return new URLSearchParams(window.location.search).get("topic") || "";
-      } catch (error) {
-        return "";
-      }
-    }
-
     function applySearchFromUrl() {
-      var initialTopic = topicFromUrl();
-
-      activeTopic = "";
-      if (initialTopic) {
-        activeTopic = initialTopic.toLowerCase();
-        input.value = initialTopic;
-      } else {
-        input.value = searchFromUrl();
-      }
-
+      var params = new URLSearchParams(window.location.search);
+      var initialTopic = params.get("topic") || "";
+      activeTopic = initialTopic.toLowerCase();
+      input.value = initialTopic || params.get("q") || "";
+      if (input.value || activeTopic || params.get("archive") === "open") archive.open = true;
       updateSearch();
+      if (initialTopic || params.get("archive") === "open") revealArchive();
     }
-
     topicButtons.forEach(function (button) {
       button.addEventListener("click", function () {
-        var topic = button.getAttribute("data-topic-filter") || "";
-        activeTopic = topic.toLowerCase();
-        input.value = topic;
+        activeTopic = (button.getAttribute("data-topic-filter") || "").toLowerCase();
+        input.value = activeTopic;
+        revealArchive();
         updateSearch();
-        input.focus();
+        input.focus({ preventScroll: true });
       });
     });
-
-    input.addEventListener("input", function () {
-      activeTopic = "";
-      updateSearch();
-    });
-
+    input.addEventListener("input", function () { activeTopic = ""; updateSearch(); });
     window.addEventListener("pageshow", applySearchFromUrl);
     applySearchFromUrl();
   })();

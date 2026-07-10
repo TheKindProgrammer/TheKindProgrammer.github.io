@@ -28,7 +28,7 @@ layout: default
     {%- if page.tags.size > 0 -%}
       <div class="topic-list post-topic-list" aria-label="Topics">
         {%- for tag in page.tags -%}
-          <a class="topic-tag" href="{{ "/" | relative_url }}?topic={{ tag | url_encode }}">{{ tag }}</a>
+          <a class="topic-tag" href="{{ "/" | relative_url }}?topic={{ tag | url_encode }}#archive">{{ tag }}</a>
         {%- endfor -%}
       </div>
     {%- endif -%}
