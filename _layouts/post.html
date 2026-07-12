@@ -38,6 +38,12 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if site.github_repository and page.path -%}
+    <p class="post-audit">
+      <a href="https://github.com/{{ site.github_repository }}/commits/{{ site.github_branch | default: 'main' }}/{{ page.path | uri_escape }}" aria-label="View article revision history on GitHub">View revision history</a>
+    </p>
+  {%- endif -%}
+
   {%- if page.previous or page.next -%}
     <nav class="post-footer-nav" aria-label="Article navigation">
       {%- if page.previous -%}
