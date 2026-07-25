@@ -1,0 +1,79 @@
+---
+layout: post
+title: Brazil’s Equilibrium
+date: 2026-07-25
+tags: [Brazil, Real, FX, Emerging Markets, Commodities]
+description: Why Brazil’s strong export engine supports the real without guaranteeing currency appreciation.
+---
+### Introduction
+Brazil’s capacity to generate foreign currency through goods exports has strengthened materially over the past decade, led by substantial growth in agricultural and oil production. Yet that stronger export engine has not produced durable currency appreciation.
+This article treats the real as the clearing price between Brazil’s external earning power, its domestic fiscal and inflation constraints, and the global price of risk. A key question is how strongly – and how durably - expanding export capacity can support the currency when investors still demand substantial compensation for domestic risk. 
+
+### Strong External Engine
+Brazil’s external strength begins with a decades-long expansion in agricultural capacity, not merely a favorable commodity-price cycle. Conab data show that grain production rose from 46.9 million tons in 1976/77 to an estimated 360.1 million tons in 2025/26. Planted area grew from 37.3 million to 83.5 million hectares. Average yield more than tripled over approximately the same period, reflecting improved seeds, soil treatment, mechanization and the ability to harvest multiple crops from the same land within a year. That productive base has translated into export capacity: in 2025, Brazil shipped a record 108 million tons of soybeans and 3 million tons of raw cotton, while the volume of agricultural exports increased 3.4% year over year. Brazil can now place more physical supply on the world market than it could decades ago.
+
+From Embrapa.br. Brazil’s agricultural engine represents increased physical capacity rather than merely high prices:
+![agengine](/assets/post8/agengine.png)
+
+Oil has become another structural source of export growth. Brazil produced an average of 3.8 million barrels of oil per day in 2025, 12% more than in 2024, with pre-salt fields supplying roughly 3 million barrels per day, or 80% of national oil output. Pre-salt refers to large offshore petroleum deposits located beneath a thick layer of salt under the Atlantic seabed. The expansion represents a dramatic change: pre-salt oil production averaged only about 41,000 barrels per day in 2010, roughly 1.9% of Brazil’s total oil production that year. By 2025, net oil exports had reached 1.7 million barrels per day, making petroleum a major source of foreign-currency earnings. Iron ore remains another anchor. Brazil exported a record 416 million tons in 2025, and iron ore alone generated almost $30 billion of export revenue in 2024. Brazil’s external earning base is larger and broader than traditional descriptions suggest.
+
+Brazil is an emerging export powerhouse:
+![tradebalances](/assets/post8/emtradebalance.png)
+
+The engine is highly concentrated, particularly around China. Brazilian exports to China reached $100 billion in 2025, equivalent to almost 29% of the country’s total exports. In 2023, the surplus with China accounted for 41% of Brazil’s entire goods-trade surplus, while soybeans, oil, iron ore, beef, and cellulose represented 90% of Brazilian sales to the Chinese market. Headline Chinese GDP growth is an inadequate guide to Brazil’s export outlook. China’s economy grew roughly 5% in 2025, but the components relevant to individual Brazilian exports moved in different directions: real-estate investment fell 17.2% and crude-steel production declined 4.4%, while Chinese import volumes rose 6.5% for soybeans, 4.4% for crude oil and 1.8% for iron ore. For Brazil, the composition of Chinese growth matters more than the headline rate. Weak construction and steel production weigh on the underlying outlook for iron ore, while livestock feeding, food consumption and energy use support demand for soybeans, meat and oil.
+
+![chinaexports](/assets/post8/chinaexports.png)
+
+### Export Strength does not Equal Currency Strength
+
+Current account = goods balance + services balance + primary income + secondary income
+
+Brazil’s 2025 accounts make the distinction unusually clear. On a balance-of-payments basis, the country exported $350.9 billion of goods and imported $290.9 billion, producing a $60 billion goods surplus. Yet the full current account recorded a $68.8 billion deficit, equivalent to 3.02% of GDP. A record level of exports and a substantial goods surplus coexisted with net external borrowing. When looking at services and income flows, the picture becomes clearer. The goods surplus covered less than half their combined deficit.
+
+The largest leakages occur through imports, services, and income paid to foreign investors. Brazil’s services deficit reached $52.9 billion in 2025, reflecting categories such as transport, travel, and telecommunications. The primary-income deficit was even larger at $81.3 billion: net interest payments accounted for $28.1 billion, while net income payments associated with direct and portfolio investment reached $53.6 billion. The export machine also depends on foreign inputs. Brazil imports about 85% of the fertilizer used by its agricultural sector, while customs data show that imports of capital goods rose 23.7% and intermediate goods 5.9% in 2025. While imports expand future productive capacity, they still absorb part of the foreign currency generated by exports.
+
+Here's why $1 of Brazilian exports does not create an immediate $1 purchase of reais (see the Japan article). In 2023, Brazilian goods exports totaled $344 billion but export related FX contracts amounted to only $281 billion – a $63 billion gap.  Exporters can use receipts held abroad to pay for imported inputs, services, and interest. After accounting for imports, services and income flows, the Central Bank estimated that the broader current-account FX gap was only about $4 billion in 2023. Thus, gross exports are a poor proxy for demand for reais. The timing and use of receipts matter as much as their headline value.
+
+Brazil recorded a US$68.8 billion current-account deficit in 2025 but attracted US$77.7 billion of direct investment, enough to cover the deficit on a headline basis. That investment included US$62.4 billion of equity and US$15.3 billion of loans between related companies, but the full amount did not necessarily create immediate demand for reais. The equity figure includes reinvested earnings: if a foreign-owned company earns profits in Brazil and leaves them in the business, the accounts record foreign investment even though no new dollars enter the country. Similarly, a Brazilian subsidiary can receive a dollar loan from its foreign parent and keep the money abroad to purchase imported machinery or repay foreign debt instead of converting it into reais. Foreign capital that is converted to pay Brazilian workers or purchase local assets can strengthen the real, but the headline investment figures do not reveal how much was converted or when. These inflows therefore made Brazil’s external position safer without guaranteeing currency appreciation.
+
+A longer-term upside for the real could emerge if a greater share of Brazil’s expanding agricultural profits accrued to domestic owners and was retained or invested inside the country. That would reduce one source of primary-income outflow and allow more of the export sector’s foreign currency earnings to support domestic income and assets. The transition would not automatically strengthen the real – domestic firms can still retain dollars abroad – but it could improve the transmission from export capacity to domestic wealth over time.
+
+Brazil’s current account data:
+![currentaccount](/assets/post8/currentaccount.png)
+
+### Domestic and Global Price of Holding Reais
+
+Consider 2024. The real depreciated about 20% against the dollar even though Brazil’s export capacity remained strong. An IMF decomposition attributed one-third of that decline to domestic risk perceptions – closely associated with fiscal uncertainty – with US economic news and global risk sentiment also making substantial contributions (2025 IMF consultation with Brazil). Higher U.S. Treasury yields make dollars more attractive and when global risk aversion rises, dollars are considered a haven.
+
+Drivers of the real’s depreciation:
+![currencydriver](/assets/post8/currencydriver.png)
+
+Debt and inflation affect the return investors require to hold real-denominated assets. If investors believe Brazil’s debt can be managed without persistently higher inflation, taxes, or real rates then demand for the real increases. In the twelve months through May 2026, the public sector ran a primary deficit of 1.14% of GDP. Once interest costs were included the nominal deficit reached 9.62% of GDP. Gross government debt rose to 81.1% of GDP. Interest alone added 4.2 percentage points to the debt ratio from the first five months of the year, more than offsetting the 2.2-point reduction generated by nominal GDP growth (Banco Central do Brasil). These dynamics help explain why investors demand a risk premium. When interest costs consistently exceed the stabilizing effects of economic growth, the future path of debt becomes more sensitive to policy credibility.
+
+Brazil’s debt dynamics. High real interest costs remain a source of debt accumulation, while both gross and net public debt are projected to rise:
+![debtdynamics](/assets/post8/debtdynamics.png)
+
+The Central Bank reduced the Selic rate to 14.25% in June 2026, leaving Brazil with a wide nominal interest rate differential over the United States. Twelve-month inflation was still 4.64% in June, slightly above the 4.5% upper boundary of the 3% inflation target. The median forecast in the Central Bank’s July 17 Focus survey put inflation at 5.15% in 2026 and 4.20% in 2027 – still above target – despite expectations that the Selic would remain at 14% at the end of 2026. A high policy rate can strengthen the real when it demonstrates that the Central Bank is prepared to restore price stability. But if inflation expectations and long-term rates remain elevated, the same rate can be interpreted as compensation for inflation and fiscal risk. A restrictive interest rate accompanied by falling inflation expectations would create the strongest conditions for sustained real appreciation.
+
+The global price of holding reais is the return someone can obtain elsewhere. In July 2026, Brazil’s 14.25% policy rate exceeded the midpoint of the Federal Reserve’s 3.50 – 3.75% range by about 10.6 percentage points. That’s a large spread, but it’s not a guaranteed return. A 10% increase in the number of reais to buy one dollar could erase the interest-rate advantage for an unhedged investor (buying back more expensive dollars). When global volatility rises, an initial decline in the real can erase the carry, trigger margin calls, and force the investor to sell Brazilian assets, sell reais, and buy dollars to repay the original loan. That additional dollar demand weakens the real further, potentially forcing other leveraged investors to close similar positions. While Brazil has defensive reserves and a floating exchange rate, a real selloff can still happen.
+
+Moreover, a global risk-off episode can weaken the real even when Brazil’s own economic news has not deteriorated. The IIF estimated that foreign investors withdrew a net $25.2 billion from emerging-market stocks and bonds in May 2026 and another $17.8 billion in June. While these aren’t Brazil specific flows, they illustrate how quickly international portfolio demand can reverse. Such outflows can require foreign investors to sell Brazilian assets and convert the resulting reais into dollars, placing downward pressure on the currency.
+
+### Brazil’s External Floor, Domestic Ceiling, and Failure Conditions
+
+Brazil’s external floor is not a minimum exchange rate. It is the capacity to prevent currency depreciation from becoming an external-liquidity crisis. At the end of 2025, Brazil’s reserves equaled 121% of the IMF’s reserve-adequacy metric, within its broadly adequate range of 100–150%. 
+![ara](/assets/post8/ara.png)
+The public-sector balance sheet also provides a partial natural hedge: as of May 2026, the Central Bank estimated that a 1% depreciation of the real would reduce net public-sector debt by R$8.8 billion, or 0.07% of GDP, because the valuation gain on foreign-currency assets would exceed the increase in liabilities. Because gross debt does not net out Brazil’s reserve assets, depreciation can still increase gross debt even while reducing net debt. Depreciation is therefore not fiscally harmless, but Brazil is less exposed to the destructive currency mismatch that has amplified crises in more heavily dollar indebted emerging markets.
+
+From the IMF. Brazil’s public debt structure:
+![composition](/assets/post8/composition.png)
+
+The domestic ceiling is also not a fixed exchange-rate limit. It is the discount investors apply to Brazilian assets because of uncertainty about inflation, debt and future policy. In the Central Bank’s July 17 Focus survey, the median forecast placed net public-sector debt at 69.8% of GDP in 2026, rising to 73.4% in 2027, 76.4% in 2028 and 79.1% in 2029. These forecasts are not predetermined outcomes, but their direction captures the constraint: markets expect debt to rise rather than stabilize. Brazil can therefore remain externally resilient without receiving a durable currency rerating.
+
+A genuine break through that ceiling would require several indicators to improve together. Fiscal and inflation expectations would need to become more credible, projected debt ratios would need to be revised downward, and long-term real yields would need to decline without destabilizing external financing. The clearest signal would be a firm real while the Central Bank lowered interest rates. In that case, falling rates would indicate that investors required less compensation for Brazilian risk, rather than simply that the country had become less attractive as a carry trade. Broader foreign demand for longer-duration bonds and equities would strengthen that interpretation.
+
+Breaking the external floor would require a combination of shocks rather than an isolated fall in one commodity price. The more dangerous scenario would join weaker export earnings with retreating foreign capital and deteriorating domestic credibility. In 2024, adverse weather reduced agricultural value added by 3.2%, illustrating how a supply shock can simultaneously reduce export capacity and increase domestic price pressure. A larger shock accompanied by weak Chinese demand or a global emerging-market selloff would be more difficult to absorb. Sustained appreciation without improved domestic expectations would suggest that the framework places too much weight on Brazil’s domestic ceiling, while persistent financing pressure despite strong exports would suggest that its external floor is weaker than assumed. Because portfolio flows can move the exchange rate within days while productive capacity and fiscal credibility evolve over years, neither a single rally nor a single selloff is sufficient to settle the question.
+
+### Conclusion
+
+Brazil is not simply a commodity beta trade nor solely a fiscal-risk story. Its stronger export base reduces the risk of currency stress, but it does not guarantee BRL appreciation. The real is the clearing price between Brazil’s capacity to generate foreign-exchange earnings, the credibility of its domestic policy regime, and the global price of risk. Trade revenues support the goods balance and reduce Brazil’s need for external financing; domestic credibility and global financial conditions determine how much of that strength appears in the exchange rate, and how long it lasts.
