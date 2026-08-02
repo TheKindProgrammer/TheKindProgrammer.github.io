@@ -45,7 +45,7 @@ ECB intervention changes these premiums. Draghi’s 2012 promise to do “whatev
 
 Markets treated eurozone debt as relatively interchangeable before 2008, differentiated sharply among governments during the sovereign crisis, and subsequently priced in a stronger ECB backstop:
 ![10yrbundspread](/assets/post9/10yrbundspread.png)
-The above is from ecb.europa.eu. EA means “euro area”
+The above is from ecb.europa.eu and show 10 year Bund spreads. EA means “euro area”
 
 Robin Brooks (my favorite commentator on Substack right now), interprets these interventions as evidence that the ECB caps peripheral yields. His central point is that a credible backstop can lower yields even without continuous purchases. If investors expect the ECB to intervene during severe market stress, Italian and Spanish bonds become safer to own, increasing private demand at lower yields.
 
