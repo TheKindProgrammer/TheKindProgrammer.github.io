@@ -3,7 +3,7 @@ layout: post
 title: Eurozone Debt
 date: 2026-08-02
 tags: [Eurozone, Rates, Debt, Saving]
-description: Exploring how national saving, sovereign debt, and the ECB’s bond market backstop interact inside the eurozone
+description: Exploring how national saving, sovereign debt, and the ECB’s bond market backstop interact inside the eurozone.
 ---
 During my undergrad research I got interested in the impact of public debt on economic growth. I ran some regressions examining whether changes in short-term rates, *household* saving rates, GDP growth, equity prices, and exchange rates were associated with changes in the debt to GDP ratio and nominal debt levels. I looked at the U.S. and the U.K. I found saving rates to be significant in predicting changes in debt to GDP ratios and changes in nominal debt in the U.S. linear models. The sign was positive and statistically significant in both equations. Increases in the household saving rate were associated with faster nominal public debt growth and increases in the debt to GDP ratio. That went against my intuition because I expected declines in household saving to be associated with faster debt growth. I wasn’t looking at household debt, so that makes sense looking back. During U.S. recessions for example government borrowing and household savings can rise simultaneously via fiscal transfers (see Covid-19). I also did not have today’s AI tools to challenge my understanding of the result.
 
