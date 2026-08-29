@@ -583,6 +583,19 @@ input:focus-visible {
   font-size: 1rem;
 }
 
+.post-content a,
+.post-content a:visited {
+  color: var(--accent);
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
+.post-content a:hover {
+  color: #0f5148;
+  text-decoration-thickness: 2px;
+}
 .post-audit {
   margin: 42px 0 0;
   color: var(--muted);
