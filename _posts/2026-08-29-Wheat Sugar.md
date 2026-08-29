@@ -1,9 +1,9 @@
 ---
 layout: post
-title: When the Framework Outlives the Position.
+title: When the Framework Outlives the Position
 date: 2026-08-29
 tags: [Wheat, Sugar, Updates]
-description: Exploring recent developments in the wheat and sugar markets
+description: Exploring recent developments in the wheat and sugar markets.
 ---
 In May I argued that an interesting expression of the oil shock could be downstream rather than crude. Wheat could respond through fertilizer costs, weather, weak crop conditions, disrupted trade, and food security pricing. Sugar could respond through Brazilian competition between sugar and ethanol production. Timing was uncertain and I preferred options on futures rather than futures. The framework included a SONIA hedge.
 
