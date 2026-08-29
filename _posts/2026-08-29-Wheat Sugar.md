@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When the Framework Outlives the Position
+title: When the Framework Outlives the Position.
 date: 2026-08-29
 tags: [Wheat, Sugar, Updates]
 description: Exploring recent developments in the wheat and sugar markets
