@@ -69,14 +69,13 @@ The Python code is available in the [CommodityStats repository](https://github.c
 
 ### State of the Sugar Market
 
-The original sugar thesis focused on Brazil’s flexible production system. Mills can direct sugarcane toward either crystallized sugar or ethanol. Higher oil and ethanol prices can make fuel production relatively more attractive, reducing sugar available for export. Brazil is a large sugar exporter. The article also identified the mechanism’s limits. Mills can shift back toward sugar when sugar prices become sufficiently attractive, creating a self-correcting response.
+The original sugar thesis focused on Brazil’s flexible production system. Mills can direct sugarcane toward either crystallized sugar or ethanol. Higher oil and ethanol prices can make fuel production relatively more attractive, reducing sugar available for export. Brazil is a large sugar exporter. 
 
 Sugar initially weakened after the post. The IMF’s Sugar No. 11 benchmark averaged 14.77 cents per pound in May and 13.91 cents in June. It subsequently recovered, and raw sugar futures traded above 18 cents in August, reaching their highest level in more than a year.
 
-The eventual rally reflected several forces. Global deficit estimates increased, production in Centre-South Brazil disappointed and El Nino raised weather risks. India authorized one million tons of duty-free raw sugar imports after domestic prices rose, and production fell below earlier expectations. 
+The eventual rally reflected several forces. Global deficit estimates increased, production in Centre-South Brazil disappointed and El Nino raised weather risks. India authorized one million tons of duty-free raw sugar imports after domestic prices rose and production fell below earlier expectations. 
 
 ### What the Sugar Framework Captured
-
 
 The research correctly focused on the flexibility between sugar and ethanol as an important variable. From April through June, Center-South mills allocated 57.48% of cane to ethanol, compared to 48.96% during the same period last season, while the sugar share fell from 51.04% to 42.52%.
 
