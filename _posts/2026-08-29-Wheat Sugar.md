@@ -85,7 +85,7 @@ The framework also recognized that the relationship was reflexive rather than un
 
 The sugar rally was not a clean realization of the oil shock thesis. The stronger August move was associated with a strengthening El Nino pattern, larger global deficits, and the possibility that India would need to import sugar. Recovering ethanol values did contribute but only partially at best.
 
-The May post explicitly said that wheat depended on “weather, crop expectations, and food-security behavior,” whereas sugar was described as “fairly direct” through ethanol allocation. It would be inaccurate to claim that the sugar framework anticipated weather as the principal catalyst. India and the global balance were discussed, but in the opposite direction from what later occurred: I identified potential Indian exports and a global surplus of five to eleven million tons as forces that could absorb the shock and prevent expensive calls from paying. Because the Hormuz position had already been closed, the subsequent rally validates part of the market map without representing captured P&L.
+The May post explicitly said that wheat depended on “weather, crop expectations, and food-security behavior,” whereas sugar was described as “fairly direct” through ethanol allocation. It would be inaccurate to claim that the sugar framework anticipated weather as the principal catalyst. India and the global balance were discussed, but in the opposite direction from what later occurred: I identified potential Indian exports and a global surplus of five to eleven million tons as forces that could absorb the shock and prevent expensive calls from paying.
 
 ### Research isn’t P&L
 
