@@ -5,10 +5,12 @@ date: 2026-08-29
 tags: [Wheat, Sugar, Updates]
 description: Exploring recent developments in the wheat and sugar markets.
 ---
-In May I argued that the oil shock might be expressed downstream through wheat, sugar and UK rates. By June 29, oil had failed to sustain its breakout and I closed the Hormuz setup. Wheat and sugar later rallied for reasons that partly matched the original thesis. This update separates what the framework captured from what the trade missed.
+In May, I argued that the oil shock might be expressed downstream through wheat, sugar and UK rates. By June 29, oil had failed to sustain its breakout and I closed the Hormuz setup. Wheat and sugar later rallied for reasons that partly matched the original thesis. This update separates what the framework captured from what the trade missed.
 
 ### State of the Wheat Market
 Escalating attacks on Black Sea ports, vessels, and grain infrastructure have been a primary catalyst in the wheat rally. Ukraine and Russia account for nearly 27% of global wheat exports. S&P Global estimates that attacks removed one third of Ukraine’s grain export capacity, while Russian export routes have also been affected. Ukraine, for example, reported that grain exports during the first 26 days of August reached only about 21% of their potential volume. 
+
+On August 19, SovEcon cut its forecast for Russian wheat exports that month to 2.2 million tonnes, compared with 4.5 million a year earlier and a five-year average of 5 million. Sizov argued that missed shipments could be difficult to recover because August through December is normally Russia’s peak export period, while winter storms and seasonal freezing constrain later flows. SovEcon said the reduced pace could lead to further cuts to its 2026/27 export forecast.
 
 Import concentration has been a problem. Egypt sourced more than 82% of its wheat imports from Russia and Ukraine during the first half of 2026. Global buyers have been preparing for tighter supplies as delayed and cancelled Black Sea cargoes increased food security risks. 
 
