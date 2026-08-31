@@ -5,9 +5,7 @@ date: 2026-08-29
 tags: [Wheat, Sugar, Updates]
 description: Exploring recent developments in the wheat and sugar markets.
 ---
-In May I argued that an interesting expression of the oil shock could be downstream rather than crude. Wheat could respond through fertilizer costs, weather, weak crop conditions, disrupted trade, and food security pricing. Sugar could respond through Brazilian competition between sugar and ethanol production. Timing was uncertain and I preferred options on futures rather than futures. The framework included a SONIA hedge.
-
-By June 29, the setup changed. Oil didn’t sustain a breakout. Interestingly, the “3-2-1 crack spread” was still wide at that time and still is today. In the *Fault Lines in Focus* post, I treated the Hormuz trade as closed. Wheat and sugar subsequently rallied, and I didn’t capture the P&L. It does give an opportunity to examine what the research captured, what it missed, and how a useful framework differs from a successful trade.
+In May I argued that the oil shock might be expressed downstream through wheat, sugar and UK rates. By June 29, oil had failed to sustain its breakout and I closed the Hormuz setup. Wheat and sugar later rallied for reasons that partly matched the original thesis. This update separates what the framework captured from what the trade missed.
 
 ### State of the Wheat Market
 The original wheat framework was broader than just oil and fertilizer. Diesel and LNG were one transmission channel, but the article also emphasized weather, weak U.S. acreage and crop conditions, geopolitical disruption and the behavior of import dependent governments.
@@ -29,8 +27,7 @@ It also stated that wheat did not require a perpetual Hormuz blockage to remain 
 
 ### What it did not Capture
 
-The framework did not forecast the specific disruption to Black Sea grain infrastructure. The original trade was motivated primarily by Hormuz, fertilizer, and energy transmission. Current conditions are better described as a distribution and deliverability problem. What remains to be seen is an aggregate global wheat shortage. Large harvests and restored shipping routes could still reverse the scarcity premium.
-I’d say the broader framework therefore performed better than the specific trade. It identified a vulnerable market with convexity, but I did not own the exposure when the new catalyst arrived. 
+The framework did not forecast the specific disruption to Black Sea grain infrastructure. Current conditions are better described as a distribution and deliverability problem. What remains to be seen is an aggregate global wheat shortage. Large harvests and restored/alternative shipping routes can reverse the scarcity premium.
 
 ### Wheat Math
 
@@ -85,26 +82,20 @@ The sugar rally was not a clean realization of the oil shock thesis. The stronge
 
 The May post explicitly said that wheat depended on “weather, crop expectations, and food-security behavior,” whereas sugar was described as “fairly direct” through ethanol allocation. It would be inaccurate to claim that the sugar framework anticipated weather as the principal catalyst. India and the global balance were discussed, but in the opposite direction from what later occurred: I identified potential Indian exports and a global surplus of five to eleven million tons as forces that could absorb the shock and prevent expensive calls from paying.
 
-### Research isn’t P&L
-
-Research asks whether a framework identified the important variables, transmission mechanisms, sensitivities, and conditions under which an asset could reprice. Trading is different. Entry, instruments, premium, position size, path, and exit play an important role.
-
-The wheat framework identified a market vulnerable to geopolitical disruption and food security behavior, but the eventual catalyst arrived after the original position was closed. The sugar framework identified supply side dynamics, but the final rally depended more heavily on weather and disappointing production.
-
-I wouldn’t say that the research is irrelevant. A framework can identify the correct terrain without monetizing the eventual move. Conversely, a profitable trade can result from favorable timing without a durable framework. 
-
 ### Scorecard
 
 -	The SONIA hedge worked during the original trading window.
 -	The Hormuz specific setup was closed when its catalyst temporarily weakened.
 -	Black Sea disruptions created heightened wheat deliverability risk, consistent with the broader framework’s focus on disrupted trade and food-security behavior.
 -	Sugar’s ethanol allocation mechanism remained relevant, but the rally was driven primarily by weather and disappointing production that the original framework did not anticipate.
--	I did not capture the wheat and sugar rallies as P&L.
+-	I did not capture the wheat and sugar rallies as P&L. Research != P&L
+
+I wouldn’t say that the research is irrelevant. A framework can identify the correct terrain without monetizing the eventual move. Conversely, a profitable trade can result from favorable timing without a durable framework.
 
 ### Looking Ahead
 
 USDA forecasts U.S. wheat production at 1.531 billion bushels, the lowest since 1970/71. FAO expects global wheat output to decline from last year’s record. These figures reduce the shock absorbing margin for further weather or supply chain disruptions, although FAO still described global stocks as comfortable.
 
-The immediate risk is the Black Sea. If disruption persists while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework. J.P. Morgan has also recently warned that fertilizer disruption and El Nino could pressure food security and crop outcomes into 2027. The NOAA’s Climate Prediction Center estimates over a 90% chance of a “very strong” El Nino.
+The immediate risk is the Black Sea. If disruption persists while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework. J.P. Morgan has recently warned that fertilizer disruption and El Nino could pressure food security and crop outcomes into 2027. The NOAA’s Climate Prediction Center estimates over a 90% chance of a “very strong” El Nino.
 
-The thesis is bullish but no longer undiscovered: Chicago wheat has already risen more than 27.9% from the beginning of July to the end of August (from the Yahoo Finance front month returns). Global stocks remain substantial. Importers can draw inventories or find alternative suppliers, and improved Black Sea access or favorable Southern Hemisphere weather could recover part of the premium. Those changes would weaken the bullish argument. The case for further wheat upside depends on the market underestimating the duration of the logistical disruption and/or the nonlinear response of food sensitive importers.
+Chicago wheat has already risen more than 27.9% from the beginning of July to the end of August (from the Yahoo Finance front month returns). Global stocks remain substantial. Importers can draw inventories or find alternative suppliers, and improved Black Sea access or favorable Southern Hemisphere weather could recover part of the premium. Those changes would weaken the bullish argument. The case for further wheat upside depends on the market underestimating the duration of the logistical disruption and/or the nonlinear response of food sensitive importers.
