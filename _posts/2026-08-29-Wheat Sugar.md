@@ -8,11 +8,11 @@ description: Exploring recent developments in the wheat and sugar markets.
 In May I argued that the oil shock might be expressed downstream through wheat, sugar and UK rates. By June 29, oil had failed to sustain its breakout and I closed the Hormuz setup. Wheat and sugar later rallied for reasons that partly matched the original thesis. This update separates what the framework captured from what the trade missed.
 
 ### State of the Wheat Market
-The original wheat framework was broader than just oil and fertilizer. Diesel and LNG were one transmission channel, but the article also emphasized weather, weak U.S. acreage and crop conditions, geopolitical disruption and the behavior of import dependent governments.
+Escalating attacks on Black Sea ports, vessels, and grain infrastructure have been a primary catalyst in the wheat rally. Ukraine and Russia account for nearly 27% of global wheat exports. S&P Global estimates that attacks removed one third of Ukraine’s grain export capacity, while Russian export routes have also been affected. Ukraine, for example, reported that grain exports during the first 26 days of August reached only about 21% of their potential volume. 
 
-Escalating attacks on Black Sea ports, vessels, and grain infrastructure have been a primary catalyst in the wheat rally. Ukraine and Russia account for nearly 27% of global wheat exports. S&P Global estimates that attacks removed one third of Ukraine’s grain export capacity, while Russian export routes have also been affected. Ukraine, for example, reported that grain exports during the first 26 days of August reached only about 21% of their potential volume.
+Import concentration has been a problem. Egypt sourced more than 82% of its wheat imports from Russia and Ukraine during the first half of 2026. Global buyers have been preparing for tighter supplies as delayed and cancelled Black Sea cargoes increased food security risks. 
 
-Import concentration has been a problem. Egypt sourced more than 82% of its wheat imports from Russia and Ukraine during the first half of 2026. Global buyers have been preparing for tighter supplies as delayed and cancelled Black Sea cargoes increased food security risks.
+J.P. Morgan has recently warned that fertilizer disruption and El Nino could pressure food security and crop outcomes into 2027. The NOAA’s Climate Prediction Center estimates over a 90% chance of a “very strong” El Nino. That's now baked into wheat pricing.
 
 ### What the Wheat Framework Captured
 
@@ -64,17 +64,11 @@ The Python code is available in the [CommodityStats repository](https://github.c
 
 ### State of the Sugar Market
 
-The original sugar thesis focused on Brazil’s flexible production system. Mills can direct sugarcane toward either crystallized sugar or ethanol. Higher oil and ethanol prices can make fuel production relatively more attractive, reducing sugar available for export. Brazil is a large sugar exporter. 
-
-Sugar initially weakened after the post. The IMF’s Sugar No. 11 benchmark averaged 14.77 cents per pound in May and 13.91 cents in June. It subsequently recovered, and raw sugar futures traded above 18 cents in August, reaching their highest level in more than a year.
-
-The eventual rally reflected several forces. Global deficit estimates increased, production in Centre-South Brazil disappointed and El Nino raised weather risks. India authorized one million tons of duty-free raw sugar imports after domestic prices rose and production fell below earlier expectations. 
+Sugar initially weakened after the post. The IMF’s Sugar No. 11 benchmark averaged 14.77 cents per pound in May and 13.91 cents in June. It subsequently recovered, and raw sugar futures traded above 18 cents in August, reaching their highest level in more than a year. The eventual rally reflected several forces. Forecasts for the 2026/27 global sugar balance shifted sharply tighter: StoneX increased its projected shortfall. Other forecasters reduced their projected surplus or moved into deficit. Production in Centre-South Brazil disappointed and El Nino raised weather risks. India authorized one million tons of duty-free raw sugar imports after domestic prices rose and production fell below earlier expectations.
 
 ### What the Sugar Framework Captured
 
-The research correctly focused on the flexibility between sugar and ethanol as an important variable. From April through June, Center-South mills allocated 57.48% of cane to ethanol, compared to 48.96% during the same period last season, while the sugar share fell from 51.04% to 42.52%.
-
-The framework also recognized that the relationship was reflexive rather than unlimited. If sugar rallied far enough relative to ethanol, mills could shift cane back toward sugar, adding supply and capping the move. 
+The research correctly focused on the flexibility between sugar and ethanol as an important variable. From April through June, Center-South mills allocated 57.48% of cane to ethanol, compared to 48.96% during the same period last season, while the sugar share fell from 51.04% to 42.52%. The framework also recognized that the relationship was reflexive rather than unlimited. If sugar rallied far enough relative to ethanol, mills could shift cane back toward sugar, adding supply and capping the move. 
 
 ### What it did not Capture
 
@@ -88,14 +82,12 @@ The May post explicitly said that wheat depended on “weather, crop expectation
 -	The Hormuz specific setup was closed when its catalyst temporarily weakened.
 -	Black Sea disruptions created heightened wheat deliverability risk, consistent with the broader framework’s focus on disrupted trade and food-security behavior.
 -	Sugar’s ethanol allocation mechanism remained relevant, but the rally was driven primarily by weather and disappointing production that the original framework did not anticipate.
--	I did not capture the wheat and sugar rallies as P&L. Research != P&L
+-	I did not capture the wheat and sugar rallies as P&L. Research != P&L.
 
-I wouldn’t say that the research is irrelevant. A framework can identify the correct terrain without monetizing the eventual move. Conversely, a profitable trade can result from favorable timing without a durable framework.
-
-### Looking Ahead
+### What Matters From Here
 
 USDA forecasts U.S. wheat production at 1.531 billion bushels, the lowest since 1970/71. FAO expects global wheat output to decline from last year’s record. These figures reduce the shock absorbing margin for further weather or supply chain disruptions, although FAO still described global stocks as comfortable.
 
-The immediate risk is the Black Sea. If disruption persists while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework. J.P. Morgan has recently warned that fertilizer disruption and El Nino could pressure food security and crop outcomes into 2027. The NOAA’s Climate Prediction Center estimates over a 90% chance of a “very strong” El Nino. That's now baked into wheat pricing.
+The immediate risk is the Black Sea. If disruption persists while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework.  
 
-Chicago wheat has already risen more than 27.9% from the beginning of July to the end of August (from the Yahoo Finance front month returns). Global stocks remain substantial. Importers can draw inventories or find alternative suppliers, and improved Black Sea access or favorable Southern Hemisphere weather could recover part of the premium. Those changes would weaken the bullish argument.
+Chicago wheat has already risen more than 27.9% from the beginning of July to the end of August (from the Yahoo Finance front month returns). Importers can draw inventories or find alternative suppliers, and improved Black Sea access or favorable Southern Hemisphere weather could recover part of the premium.
