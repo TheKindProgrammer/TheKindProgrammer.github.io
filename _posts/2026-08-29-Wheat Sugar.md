@@ -2,7 +2,7 @@
 layout: post
 title: Revisiting Wheat and Sugar
 date: 2026-08-29
-tags: [Wheat, Sugar, Updates]
+tags: [Commodities, Wheat, Sugar, Updates]
 description: Exploring recent developments in the wheat and sugar markets.
 ---
 In May, I argued that the oil shock might be expressed downstream through wheat, sugar and UK rates. By June 29, oil had failed to sustain its breakout and I closed the Hormuz setup. Wheat and sugar later rallied for reasons that partly matched the original thesis. This update separates what the framework captured from what the trade missed.
@@ -60,7 +60,7 @@ r_wheat,t = -0.000241 + 0.9595(F_t) + ε_t
 ```
 Here, `F_t` is the return on the constructed commodity factor, `0.9595` is wheat’s estimated beta to that factor, and `ε_t` is the portion of wheat’s daily return left unexplained by the model. The 95% confidence interval is 0.81 to 1.11. The z stat of the beta estimate being statistically different from zero is 12.8. The R2 is 0.15.
 
-From July 1 through August 28, Yahoo Finance’s continuous front month wheat series (not winter wheat contained in the original post) rose 27.9%. Applying the pre-event relationship, the commodities basket implied a 16.3% move, while the model produced a compounded residual of approximately 11.1%. These figures do not add because returns are compounded and the beta implied calculation excludes the regression intercept. The evidence indicates that broad commodity exposure explains a modest share of wheat’s daily variation and leaves substantial scope for the wheat specific news. 
+From July 1 through August 28, Yahoo Finance’s continuous front month wheat series (Soft Red Winter) rose 27.9%. Applying the pre-event relationship, the commodities basket implied a 16.3% move, while the model produced a compounded residual of approximately 11.1%. These figures do not add because returns are compounded and the beta implied calculation excludes the regression intercept. The evidence indicates that broad commodity exposure explains a modest share of wheat’s daily variation and leaves substantial scope for the wheat specific news. 
 ![rolling60day](/assets/post10/60day.png)
 The Python code is available in the [CommodityStats repository](https://github.com/TheKindProgrammer/CommodityStats).
 
