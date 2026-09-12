@@ -25,7 +25,7 @@ The framework identified wheat as an asset with several vulnerabilities:
 -	Concentrated dependence among politically sensitive importers
 -	The possibility that governments would value supply security more than price
   
-It also stated that wheat did not require a perpetual Hormuz blockage to remain interesting. That mattered because the eventual direct catalyst came from the Black Sea rather than the Strait of Hormuz. That said limited Hormuz traffic can still threaten wheat production with a lag via the fertilizer and diesel channel.
+It also stated that wheat did not require a perpetual Hormuz blockage to remain interesting. That mattered because the eventual direct catalyst came from the Black Sea rather than the Strait of Hormuz. That said limited Hormuz traffic can still threaten wheat production/pricing with a lag via the fertilizer and diesel channel.
 
 ### What it did not Capture
 
