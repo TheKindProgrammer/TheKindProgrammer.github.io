@@ -90,6 +90,6 @@ The May post explicitly said that wheat depended on “weather, crop expectation
 
 USDA forecasts U.S. wheat production at 1.531 billion bushels, the lowest since 1970/71. FAO expects global wheat output to decline from last year’s record. These figures reduce the shock absorbing margin for further weather or supply chain disruptions, although FAO still described global stocks as comfortable.
 
-The immediate risk is the Black Sea. If disruption persists while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework.  
+An immediate risk is the Black Sea (+ Russian refining capacity). If disruptions persist while inventories decline, importers could move from delaying purchases to securing physical supply regardless of price – the transition from normal crop pricing toward the food security pricing regime described in the original framework.  
 
 Chicago wheat has already risen more than 27.9% from the beginning of July to the end of August (from the Yahoo Finance front month returns). Importers can draw inventories or find alternative suppliers, and improved Black Sea access or favorable Southern Hemisphere weather could recover part of the premium.
