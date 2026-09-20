@@ -47,7 +47,7 @@ The parallel exchange rate provides a good measure of the situation. I’d inter
 
 ### Global Market Implications
 
-I’ve been watching crack spreads. Refining capacity online is the lowest in modern history (Andreas Larsen). Damage to Gulf and Russian refineries has reduced operating capacity, while restrictions around Hormuz and Bab al-Mandab have affected crude feedstock and refined product shipments. A deal in the Middle East / Ukraine or spare capacity from China coming online can reduce the spread.
+I’ve been watching crack spreads. Refining capacity online is the lowest in modern history (Andreas Larsen). Damage to Gulf and Russian refineries has reduced operating capacity, while restrictions around Hormuz and Bab al-Mandab have affected crude feedstock and refined product shipments. A deal in the Middle East / Ukraine or spare capacity from China coming online can reduce the spread. Russian production could recover before export restrictions ease.
 
 Elevated diesel would initially squeeze farm margins and raise transportation costs. Fertilizer shortages pose the more direct risk to crop yields: if farmers reduce or miss nitrogen applications, expected wheat production would decline. Agricultural commodities could rise once markets begin incorporating those prospective supply losses.
 
